@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.nav-link {
+    @apply text-white text-xl font-bold uppercase inline-block;
+  }
+  
+  .nav-link:hover {
+    @apply scale-110 text-gray-600;
+  }
+  
+  
