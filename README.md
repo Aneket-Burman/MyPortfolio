@@ -1,6 +1,4 @@
-Here’s a **README.md** template for your project based on the components you’ve shared:
 
-```markdown
 # Portfolio Website - Aneket Burman
 
 This is the personal portfolio website of **Aneket Burman**, showcasing my journey, projects, skills, and achievements in web development, full-stack development, and other technical domains. The website is designed with a clean and modern look using **React** and **Tailwind CSS**, with a focus on user interactivity and smooth animations.
@@ -70,15 +68,3 @@ For any inquiries or feedback, feel free to reach out to me at [burmananeket2654
 ---
 
 Thank you for visiting my portfolio! 🚀
-```
-
-### Explanation of Sections:
-
-- **Features**: Lists the main sections and interactive features of the portfolio.
-- **Technologies Used**: A brief summary of the core technologies and tools used.
-- **Installation**: Step-by-step guide to set up the project on a local machine.
-- **How to Contribute**: Instructions for others to contribute to the project (if applicable).
-- **License**: A simple open-source license for your repository (MIT is a common choice).
-- **Contact**: Your email for visitors to reach out.
-
-You can update the repository link and other project-specific details as needed.
