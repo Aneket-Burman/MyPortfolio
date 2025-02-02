@@ -4,7 +4,7 @@ const Navbar = () => {
         {/* Logo on the left (clickable link to Home) */}
         <a href="#home">
           <img 
-            src="./src/assets/logo.jpg"  // Make sure the path is correct
+            src="/assets/logo.jpg"  // Make sure the path is correct
             alt="Logo" 
             className="w-16 h-16 transition-transform duration-300 rounded-full hover:scale-110"
           />

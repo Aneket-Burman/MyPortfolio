@@ -12,7 +12,7 @@ const FirstYearSection = () => {
                     <div className="h-[75%] w-full bg-black rounded-lg overflow-hidden flex items-center justify-center">
                         <a href="https://aneket-burman.github.io/AP_PROJECT/" target="_blank" rel="noopener noreferrer">
                             <img 
-                                src="./src/assets/travel_website.png" 
+                                src="/assets/travel_website.png" 
                                 alt="Travel Website" 
                                 className="w-full h-full object-cover rounded-lg aspect-[4/3] transition-transform duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl"
                             />
@@ -28,7 +28,7 @@ const FirstYearSection = () => {
                     <div className="h-[75%] w-full bg-black rounded-lg overflow-hidden flex items-center justify-center">
                         <a href="https://www.linkedin.com/posts/aneket-burman_codechef-achievementunlocked-coding-activity-7062353621148930048-OJxM?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">
                             <img 
-                                src="./src/assets/linkedin_post.png" 
+                                src="/assets/linkedin_post.png" 
                                 alt="2-Star CodeChef Achievement" 
                                 className="w-full h-full object-cover rounded-lg aspect-[4/3] transition-transform duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl"
                             />
