@@ -12,7 +12,7 @@ const SecondYearSection = () => {
                     <div className="h-[80%] w-full bg-black rounded-lg overflow-hidden flex items-center justify-center">
                         <a href="https://aneket-burman.github.io/simon-says/" target="_blank" rel="noopener noreferrer">
                             <img 
-                                src="../../src/assets/Simon_Says.png" 
+                                src="public/src/assets/Simon_Says.png" 
                                 alt="Simon Says Game" 
                                 className="w-full h-full object-cover rounded-lg aspect-[16/9] transition-transform duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl"
                             />
@@ -28,7 +28,7 @@ const SecondYearSection = () => {
                     <div className="h-[80%] w-full bg-black rounded-lg overflow-hidden flex items-center justify-center">
                         <a href="https://aneket-burman.github.io/drum-kit/" target="_blank" rel="noopener noreferrer">
                             <img 
-                                src="../../src/assets/Drum_Kit.png" 
+                                src="public/src/assets/Drum_Kit.png" 
                                 alt="Drum Kit Game" 
                                 className="w-full h-full object-cover rounded-lg aspect-[16/9] transition-transform duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl"
                             />
@@ -49,7 +49,7 @@ const SecondYearSection = () => {
                     <div className="h-[80%] w-full bg-black rounded-lg overflow-hidden flex items-center justify-center">
                         <a href="https://leetcode.com/u/Aneket_Burman/" target="_blank" rel="noopener noreferrer">
                             <img 
-                                src="../../src/assets/LC_Profile.png" 
+                                src="public/src/assets/LC_Profile.png" 
                                 alt="LeetCode DSA" 
                                 className="w-full h-full object-cover rounded-lg aspect-[16/9] transition-transform duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl"
                             />
@@ -65,7 +65,7 @@ const SecondYearSection = () => {
                     <div className="h-[80%] w-full bg-black rounded-lg overflow-hidden flex items-center justify-center">
                         <a href="https://www.udemy.com/certificate/UC-94a554ab-cc8e-4612-b8cc-c2a1205a0229/" target="_blank" rel="noopener noreferrer">
                             <img 
-                                src="../../src/assets/angela_yu.png" 
+                                src="public/src/assets/angela_yu.png" 
                                 alt="Angela Yu Web Dev Course" 
                                 className="w-full h-full object-cover rounded-lg aspect-[16/9] transition-transform duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl"
                             />

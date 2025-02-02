@@ -12,7 +12,7 @@ const FullStackProjectsSection = () => {
                     <div className="h-[80%] w-full bg-black rounded-lg overflow-hidden flex items-center justify-center">
                         <a href="https://github.com/Aneket-Burman/SIH-2024" target="_blank" rel="noopener noreferrer">
                             <img 
-                                src="../../src/assets/Navix.png" 
+                                src="public/src/assets/Navix.png" 
                                 alt="SIH 2024 Project - Navix" 
                                 className="w-full h-full object-cover rounded-lg aspect-[16/9] transition-transform duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl"
                             />

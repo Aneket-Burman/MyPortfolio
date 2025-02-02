@@ -1,12 +1,12 @@
 const Navbar = () => {
     return (
-      <nav className="w-full h-20 bg-black flex justify-between items-center fixed top-0 left-0 z-50 px-8">
+      <nav className="fixed top-0 left-0 z-50 flex items-center justify-between w-full h-20 px-8 bg-black">
         {/* Logo on the left (clickable link to Home) */}
         <a href="#home">
           <img 
-            src="../../src/assets/logo.jpg"  // Make sure the path is correct
+            src="public/src/assets/logo.jpg"  // Make sure the path is correct
             alt="Logo" 
-            className="h-16 w-16 rounded-full hover:scale-110 transition-transform duration-300"
+            className="w-16 h-16 transition-transform duration-300 rounded-full hover:scale-110"
           />
         </a>
   
