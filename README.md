@@ -3,6 +3,8 @@
 
 This is the personal portfolio website of **Aneket Burman**, showcasing my journey, projects, skills, and achievements in web development, full-stack development, and other technical domains. The website is designed with a clean and modern look using **React** and **Tailwind CSS**, with a focus on user interactivity and smooth animations.
 
+https://aneketfolio.netlify.app/
+
 ## Features
 
 - **Intro Section**: A dynamic, animated intro with a personalized greeting.
